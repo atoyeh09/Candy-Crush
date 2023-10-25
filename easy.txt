@@ -1,0 +1,1 @@
+Player Name : ali	Score : 10.Player Name : shah	Score : 15.Player Name : Ahmad	Score : 5.Player Name : Gohar	Score : 10.Player Name : SHAHZAIB	Score : 15.Player Name : MUIZ	Score : 20.Player Name : GIHA	Score : 30.
