@@ -1,1 +1,3 @@
-# Candy Crush in C++
+# Candy Crush
+
+Candy Crush game written in C++
